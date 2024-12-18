@@ -1,5 +1,5 @@
 **Task Management API**  
-A simple Spring Boot application to manage tasks with features to create, read, and list tasks stored in a MySQL database.
+A simple Spring Boot application to manage tasks with features to create, read, and list and delete tasks stored in a MySQL database.
 
 **Features:**  
 Create a task.  
